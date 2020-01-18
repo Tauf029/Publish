@@ -1,0 +1,5 @@
+List of monitoring project
+1. Soil moisture monitoring
+2. Water quality monitoring
+3. Hydroponic monitoring
+4. Industrial Grade Water Quality monitoring
