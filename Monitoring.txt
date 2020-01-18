@@ -1,5 +1,0 @@
-List of monitoring system.
-1. Soil Moisture Monitoring
-2. Water Quality Monitoring (DO, Temp, pH)
-3. Hydroponic Monitoring
-4. Industrial Grade Water Quality Monitoring
